@@ -4,4 +4,5 @@ A tool for manual asset refreshing. If enabled, unity will no longer auto refres
 Default shortcut for manual refresh: Shift + C
 
 ![Window](img.png)
+
 The auto refresh toggle will change settings in preferences->asset pipeline.
