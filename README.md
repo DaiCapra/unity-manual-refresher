@@ -8,4 +8,5 @@ Default shortcut for manual refresh: Shift + C
 ![Window](img.png)
 
 Found in Tools->Manual Refresher
+
 The auto refresh toggle will change settings in preferences->asset pipeline.
